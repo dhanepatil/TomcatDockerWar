@@ -4,19 +4,19 @@
 </head>
 <body>
 <form name="loginForm" method="post" action="login.php">
-<table width="20%" bgcolor="0099CC" align="center">
+<table width="20%" bgcolor="009900" align="center">
 
 <tr>
-<td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
+<td colspan=2><center><font size=4><b>Login Page for porn</b></font></center></td>
 </tr>
 
 <tr>
-<td>Username:</td>
+<td>Usernameforit:</td>
 <td><input type="text" size=25 name="userid"></td>
 </tr>
 
 <tr>
-<td>Password:</td>
+<td>DirtyPassword:</td>
 <td><input type="Password" size=25 name="pwd"></td>
 </tr>
 
