@@ -4,10 +4,10 @@
 </head>
 <body>
 <form name="loginForm" method="post" action="login.php">
-<table width="20%" bgcolor="0099CC" align="center">
+<table width="20%" bgcolor="0099FF" align="center">
 
 <tr>
-<td colspan=2><center><font size=4><b>Login Page for sex</b></font></center></td>
+<td colspan=2><center><font size=4><b>Login Page to apply</b></font></center></td>
 </tr>
 
 <tr>
